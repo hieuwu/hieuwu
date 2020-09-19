@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 [![Redux](https://img.shields.io/badge/Redux-%23FFac45.svg?&style=for-the-badge&logo=redux&logoColor=white&color=blueviolet)](https://github.com/hieuwu/kotlin-android-practice)
 [![Jest](https://img.shields.io/badge/Jest-%23FFac45.svg?&style=for-the-badge&logo=jest&logoColor=white&color=critical)](https://github.com/hieuwu/kotlin-android-practice)
 
-**Web development
+**Web development**
 
 [![HTML](https://img.shields.io/badge/HTML-%23FFac45.svg?&style=for-the-badge&logo=html5&logoColor=white&color=orange)](https://github.com/hieuwu/kotlin-android-practice)
 [![CSS](https://img.shields.io/badge/CSS-%23FFac45.svg?&style=for-the-badge&logo=css3&logoColor=white&color=blue)](https://github.com/hieuwu/kotlin-android-practice)
