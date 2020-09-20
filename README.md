@@ -1,7 +1,7 @@
 ### Hi there! 👋 Hope you are working efectively! 😄
 
 - 🌱 I’m currently learning Kotlin for Android development. If you need a mobile development enthusiast to join in your amazing pet project, just send me a message !
-- 📫 How to reach me: Just message me on Facebook or LinkedIn account below. You sould visit my portfolio if needned (click on the **Github badge** next to the LinkedIn badge)
+- 📫 How to reach me: Just message me on Facebook or LinkedIn account below. You sould visit my portfolio if needed (click on the **Github badge** next to the LinkedIn badge)
 <!--
 **hieuwu/hieuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
