@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 **Cross-platform**
 
-[![React Native](https://img.shields.io/badge/React%20Native-%23FFac45.svg?&style=for-the-badge&logo=react&logoColor=blue&color=lightgrey)](https://github.com/hieuwu/kotlin-android-practice)
+[![React Native](https://img.shields.io/badge/React%20Native-%23FFac45.svg?&style=for-the-badge&logo=react&logoColor=blue&color=black)](https://github.com/hieuwu/kotlin-android-practice)
 [![Redux](https://img.shields.io/badge/Redux-%23FFac45.svg?&style=for-the-badge&logo=redux&logoColor=white&color=blueviolet)](https://github.com/hieuwu/kotlin-android-practice)
 [![Jest](https://img.shields.io/badge/Jest-%23FFac45.svg?&style=for-the-badge&logo=jest&logoColor=white&color=critical)](https://github.com/hieuwu/kotlin-android-practice)
 
