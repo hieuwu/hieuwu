@@ -28,11 +28,13 @@ Here are some ideas to get you started:
 [![Java](https://img.shields.io/badge/Java-%23FFac45.svg?&style=for-the-badge&logo=java&logoColor=white&color=yellow)](https://github.com/hieuwu/kotlin-android-practice)
 [![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")](https://github.com/hieuwu/kotlin-android-practice)
 
+
 **Cross-platform**
 
 [![React Native](https://img.shields.io/badge/React%20Native-%23FFac45.svg?&style=for-the-badge&logo=react&logoColor=blue&color=black)](https://github.com/hieuwu/kotlin-android-practice)
 [![Redux](https://img.shields.io/badge/Redux-%23FFac45.svg?&style=for-the-badge&logo=redux&logoColor=white&color=blueviolet)](https://github.com/hieuwu/kotlin-android-practice)
 [![Jest](https://img.shields.io/badge/Jest-%23FFac45.svg?&style=for-the-badge&logo=jest&logoColor=white&color=critical)](https://github.com/hieuwu/kotlin-android-practice)
+[![Flutter](https://img.shields.io/badge/flutter-teal.svg?&style=for-the-badge&logo=flutter&logoColor=white&color=blue")](https://github.com/hieuwu/kotlin-android-practice)
 
 **Web development**
 
