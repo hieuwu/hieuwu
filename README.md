@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 [![CSS](https://img.shields.io/badge/CSS-%23FFac45.svg?&style=for-the-badge&logo=css3&logoColor=white&color=blue)](https://github.com/hieuwu/kotlin-android-practice)
 [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23FFac45.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=yellow)](https://github.com/hieuwu/kotlin-android-practice)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuwu&layout=compact&theme=prussian)](https://github.com/hieuwu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuwu&layout=compact&theme=vue)](https://github.com/hieuwu)
