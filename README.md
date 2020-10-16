@@ -1,7 +1,6 @@
 ### Hi there! 👋 Hope you are working efectively! 😄
 
-- 🌱 I’m currently learning Kotlin for Android development. If you need a mobile development enthusiast to join in your amazing pet project, just send me a message !
-- 📫 How to reach me: Just message me on Facebook or LinkedIn account below. You sould visit my portfolio if needed (click on the **Github badge** next to the LinkedIn badge)
+- 📫 How to reach : Message me on Facebook or LinkedIn. You should visit my portfolio first (click the **Github badge** next to the LinkedIn badge)\
 <!--
 **hieuwu/hieuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,24 +19,14 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hieuvu99)
 [![Github](http://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=black)](https://hieuwu.github.io/)
 
-#### ⚡  Below are technologies that I used to work with:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuwu&layout=compact&theme=default)](https://github.com/hieuwu)
 
-**Android**
 
 [![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/hieuwu/kotlin-android-practice)
 [![Java](https://img.shields.io/badge/Java-%23FFac45.svg?&style=for-the-badge&logo=java&logoColor=white&color=yellow)](https://github.com/hieuwu/kotlin-android-practice)
 [![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")](https://github.com/hieuwu/kotlin-android-practice)
-
-
-**Cross-platform**
-
 [![React Native](https://img.shields.io/badge/React%20Native-%23FFac45.svg?&style=for-the-badge&logo=react&logoColor=blue&color=black)](https://github.com/hieuwu/kotlin-android-practice)
-[![Redux](https://img.shields.io/badge/Redux-%23FFac45.svg?&style=for-the-badge&logo=redux&logoColor=white&color=blueviolet)](https://github.com/hieuwu/kotlin-android-practice)
-[![Jest](https://img.shields.io/badge/Jest-%23FFac45.svg?&style=for-the-badge&logo=jest&logoColor=white&color=critical)](https://github.com/hieuwu/kotlin-android-practice)
-
 [![Flutter](https://img.shields.io/badge/flutter-teal.svg?&style=for-the-badge&logo=flutter&logoColor=white&color=blue)](https://github.com/hieuwu/kotlin-android-practice)
-
-**Web development**
 
 [![HTML](https://img.shields.io/badge/HTML-%23FFac45.svg?&style=for-the-badge&logo=html5&logoColor=white&color=orange)](https://github.com/hieuwu/kotlin-android-practice)
 [![CSS](https://img.shields.io/badge/CSS-%23FFac45.svg?&style=for-the-badge&logo=css3&logoColor=white&color=blue)](https://github.com/hieuwu/kotlin-android-practice)
