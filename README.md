@@ -1,6 +1,6 @@
 ### Hi there! 👋 Hope you are working efectively! 😄
 
-- 📫 How to reach : Message me on Facebook or LinkedIn. You should visit my portfolio first (click the **Github badge** next to the LinkedIn badge)\
+- 📫 How to reach : Message me on Facebook or LinkedIn. You can visit my portfolio first if needed (click the **Github badge** next to the LinkedIn badge)
 <!--
 **hieuwu/hieuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
