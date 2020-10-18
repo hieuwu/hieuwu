@@ -1,4 +1,4 @@
-### Hi there! 👋 Hope you are working efectively! 😄
+### Hi there! 👋
 
 - 📫 How to reach : Message me on Facebook or LinkedIn. You can visit my portfolio first if needed (click the **Github badge** next to the LinkedIn badge)
 <!--
