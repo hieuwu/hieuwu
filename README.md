@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hieuvu99)
 [![Github](http://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=black)](https://hieuwu.github.io/)
 
-<!--
-
-# Tech Skills
-
 [![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/hieuwu/kotlin-android-practice)
 [![Java](https://img.shields.io/badge/Java-%23FFac45.svg?&style=for-the-badge&logo=java&logoColor=white&color=yellow)](https://github.com/hieuwu/kotlin-android-practice)
 [![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")](https://github.com/hieuwu/kotlin-android-practice)
@@ -33,7 +29,3 @@ Here are some ideas to get you started:
 [![CSS](https://img.shields.io/badge/CSS-%23FFac45.svg?&style=for-the-badge&logo=css3&logoColor=white&color=blue)](https://github.com/hieuwu/kotlin-android-practice)
 [![JavaScript](https://img.shields.io/badge/JAVASCRIPT-%23FFac45.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=yellow)](https://github.com/hieuwu/kotlin-android-practice)
 
--->
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuwu&layout=compact&theme=vue&langs_count=6&show_icons=true)](https://github.com/hieuwu)
