@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-#### Be patient, real recognize real
+#### :rocket: Be patient, real recognize real
 
 <!--
 **hieuwu/hieuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
