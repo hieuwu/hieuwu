@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hieuvu99)
 [![Github](http://img.shields.io/badge/github-%231877F2.svg?&style=for-the-badge&logo=github&logoColor=white&color=black)](https://hieuwu.github.io/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuwu&layout=compact&theme=gruvbox&langs_count=10)](https://hieuwu.github.io/)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hieuwu&layout=compact&theme=gruvbox&langs_count=10)](https://hieuwu.github.io/) -->
 
 <!--
 
