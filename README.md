@@ -1,6 +1,8 @@
 ### Hi there! 👋
 
-#### :rocket: Be patient, real recognize real
+- 🔭 I’m currently working on a project called Groceries Store, an application developed with MAD skills. MAD stands for Modern Android Development Android Development.
+
+<!-- #### :rocket: Be patient, real recognize real -->
 
 <!--
 **hieuwu/hieuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
