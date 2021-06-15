@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- 🔭 I’m currently working on a project called Groceries Store, an application developed with MAD skills. MAD stands for Modern Android Development Android Development.
+- 🔭 I’m currently working on a project called Groceries Store, an application developed with MAD skills. MAD stands for Modern Android Development.
 
 <!-- #### :rocket: Be patient, real recognize real -->
 
