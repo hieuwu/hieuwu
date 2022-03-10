@@ -1,6 +1,7 @@
 ### Hi there! 👋
+![github-header-image (3)](https://user-images.githubusercontent.com/43868345/157589318-7b69aa9f-f60d-4124-bb87-b9414cd06da7.png)
 
-- 🔭 I’m currently working on a project called Groceries Store, an application developed with MAD skills. MAD stands for Modern Android Development.
+🚀 I’m currently working on a project called Groceries Store, an application developed with modern Android development skills.
 
 <!-- #### :rocket: Be patient, real recognize real -->
 
