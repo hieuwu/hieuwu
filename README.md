@@ -1,4 +1,5 @@
-<img src="https://github.com/hieuwu/hieuwu.github.io/blob/master/assets/img/53114-rocket-circling.gif" align="right" height="130px">
+<img src="https://github.com/hieuwu/hieuwu.github.io/blob/master/assets/img/53114-rocket-circling.gif" align="right" height="150px">
+
 
 - [Speaker Deck](https://speakerdeck.com/hieuwu)
 - [LinkedIn](https://www.linkedin.com/in/hieuvu99)
