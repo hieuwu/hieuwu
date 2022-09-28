@@ -1,7 +1,13 @@
+<img src="https://github.com/hieuwu/hieuwu.github.io/blob/master/assets/img/53114-rocket-circling.gif" align="right" height="130px">
+
+
+
+
 - [Speaker Deck](https://speakerdeck.com/hieuwu)
 - [LinkedIn](https://www.linkedin.com/in/hieuvu99)
 - [Twitter](https://twitter.com/hieuwu99)
 - [Medium](https://hieuwu.medium.com/)
+
 <!--
 **hieuwu/hieuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
