@@ -5,6 +5,7 @@
 - [LinkedIn](https://www.linkedin.com/in/hieuvu99)
 - [Twitter](https://twitter.com/hieuwu99)
 - [Medium](https://hieuwu.medium.com/)
+- [Upwork](https://www.upwork.com/freelancers/~016da769ff83330c47)
 
 <!--
 **hieuwu/hieuwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
