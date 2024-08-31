@@ -3,7 +3,7 @@
 
 - [Speaker Deck](https://speakerdeck.com/hieuwu)
 - [LinkedIn](https://www.linkedin.com/in/hieuvu99)
-- [Twitter](https://twitter.com/hieuwu99)
+- [X](https://x.com/hieuwu99)
 - [Medium](https://hieuwu.medium.com/)
 - [Upwork](https://www.upwork.com/freelancers/~016da769ff83330c47)
 
